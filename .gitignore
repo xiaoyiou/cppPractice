@@ -34,3 +34,7 @@
 # emacs related temp files
 *~
 \#*\#
+
+# flymd related files
+flymd.html
+flymd.md
